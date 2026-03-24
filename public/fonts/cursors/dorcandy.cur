@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<Error>
+	<Code>NoSuchBucket</Code>
+	<Message>The specified bucket does not exist.</Message>
+	<Resource>/</Resource>
+	<RequestId>NjliOTY3MTFfY2NhZDI0MDlfMTNlNGZfNDE3NmE0Mw==</RequestId>
+	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc1NGE1MWY0MzY2NTg1MzM1OTY3MDliYzY2YTQ0ZThhMGQwMWM3NzAwYWJhNmI2NzNkNDdiZjBiZDdkYmQyYTM3</TraceId>
+</Error>
+
